@@ -1,0 +1,39 @@
+{
+    "restaurantId": "40c40b5bb3884bf98060e3d54a977447",
+    "name": "Alice's Breakfasts",
+    "description": "Are you looking for a fab breakfast? Look no more. Serving the best breakfasts ever since 1993!",
+    "items": [
+        {
+            "id": "a045e5f9688e46e6aa8b93f07f5474d6",
+            "name": "Egg on Toast",
+            "description": "Delicious free-range egg on toast.",
+            "price": 870,
+            "image": "egg-on-toast.jpg",
+            "stock": 1000
+        },
+        {
+            "id": "96ce1141f9cf4255958afbd9de4836b5",
+            "name": "Eggs with Avocado on Toast",
+            "description": "Delicious free-range egg on toast with a perfectly ripe avocado.",
+            "price": 920,
+            "image": "egg-avocado-toast.jpg",
+            "stock": 1000
+        },
+        {
+            "id": "cd8dfe5dc9994518ab64d7e955502ec6",
+            "name": "Salad",
+            "description": "A tasty, filling salad. All the flavour without the calories.",
+            "price": 775,
+            "image": "salad.jpg",
+            "stock": 1000
+        },
+        {
+            "id": "cd8dfe5dc9994518ab64d7e955502ec6",
+            "name": "Unavailable Salad",
+            "description": "Another tasty, filling salad . All the flavour without the calories.",
+            "price": 740,
+            "image": "salad.jpg",
+            "stock": 0
+        }                                                
+    ] 
+}
