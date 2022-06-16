@@ -1,12 +1,15 @@
+<img src="https://user-images.githubusercontent.com/10439518/174103006-0cd96882-b723-41cb-aae4-dbb0251bb177.png" alt="Growth Kitchen's Logo" width="400"/>
+
+
 # Growth Kitchen's Full-Stack Test
 
-Welcome to Growth Kitchen and thanks for showing an interest in applying for one of our roles. 
+Welcome to Growth Kitchen and thanks for showing an interest in applying for one of our roles 🙌
 
-## Goal
+## Goal 🎯
 
 The objective of this challenge is to assess a tiny bit of each thing you'd have to do while developing a feature for a full-stack application. On a normal day at work, you'd probably have to _at the bare minimum_, modify an API, fiddle with some frontend code, do some magic in HTML and CSS, and write some tests. So, that's what we want to see on this challenge, and it's why we don't ask you to traverse a tree or implement Dijkstra's algorithm.
 
-## Languages, technologies and libraries
+## Languages, technologies and libraries 📚
 
 Ideally, we'd like you to use React, TypeScript, HTML and CSS because those are some of the technologies we're using at Growth Kitchen at the moment. We've provided you with a basic [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), in case you want to use it and save some time.
 
@@ -14,7 +17,7 @@ However, you don't need to use the project provided, if you feel more comfortabl
 
 You can use as many libraries and tools as you need to get the job done. Do you prefer to write your styles in plain CSS? That's fine. Do you feel more comfortable using SASS, or a framework like Tailwind or Ant? That's totally fine too. All we ask is that you explain _why_ you've chosen a certain library or tool.
 
-## What we'll be paying attention to
+## What we'll be paying attention to 🔍
 
 We want to be as transparent as possible to set you up for success, so here are the things that we'll be paying attention to:
 
@@ -30,7 +33,7 @@ We want to be as transparent as possible to set you up for success, so here are 
 
 **6. Clarifications and assumptions** – Have you written clear clarifications to explain why you've decided to do (or not to do) a part of the solution in that specific way? If something wasn't obvious from the task description, have you documented it and explained your assumptions?
 
-## The task
+## The task 📝
 
 We'd like you to create a simple menu page for a restaurant.
 
@@ -54,25 +57,25 @@ Using the data provided in `public/menu.json`:
 - Any things you'd have done differently if you had more time or if this was a feature that you'd be deploying to real customers in Production.
 - How long you've spent on the test – This won't have an impact on the outcome of the interview process. We want to monitor how long do people tend to spend on the challenge.
 
-## Additional Tips
+## Additional Tips 💭
 
 - Try to make this simple page look nice, clean and professional for mobile devices up to `480px`. Ignore other screen sizes. It's entirely up to you how this page should be presented, but make sure you do style it (once again, feel free to use libraries or frameworks to achieve this, if you wished to do so).
 
 - Write some sort of automated tests. Again, you choose what type(s) of tests to write and how.
 
-## How long should I spend on this test?
+## How long should I spend on this test? ⏲️
 
 We are very conscious of people's personal time, so we didn't want to create a test that would take up too much time. Ideally, you should be able to complete this task in more or less 2-3 hours.
 
-## Feedback
+## Feedback 🗣
 
 This is the first version of our technical test because we're just starting our journey towards building our in-house team! If you have any feedback in terms of how we can make it a better test, please, let your interviewer know! 🙏
 
-## Submission
+## Submission 📤
 
 Create a zip file named `{yourfullname}.zip` including your whole submission and send it to the recruiter who's been in contact with you. Please, be mindful of not including any unnecessary files and folders.
 
-## Running The Application
+## Running The Application ⚙️
 
 ### Prerequisites
 
