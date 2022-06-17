@@ -17,22 +17,6 @@ However, you don't need to use the project provided, if you feel more comfortabl
 
 You can use as many libraries and tools as you need to get the job done. Do you prefer to write your styles in plain CSS? That's fine. Do you feel more comfortable using SASS, or a framework like Tailwind or Ant? That's totally fine too. All we ask is that you explain _why_ you've chosen a certain library or tool.
 
-## What we'll be paying attention to 🔍
-
-We want to be as transparent as possible to set you up for success, so here are the things that we'll be paying attention to:
-
-**1. Adherence to instructions** – Does your solution do everything we've asked you to do? Have any requirements been ignored? Do your tests run (and pass)?
-
-**2. Overall structure and cleanliness** – Can you organise the project cleanly and tidily? Is your code easy-to-read and structured in a cohesive manner? 
-
-**3. Language features** – Are you correctly using the features of the languages you're using for the test?
-
-**4. Correct use of technologies and tools** – Are you using the right tools for each task? 
-
-**5. Naming conventions and consistency** – Do you stick to naming conventions? Does your code look consistent throughout your solution?
-
-**6. Clarifications and assumptions** – Have you written clear clarifications to explain why you've decided to do (or not to do) a part of the solution in that specific way? If something wasn't obvious from the task description, have you documented it and explained your assumptions?
-
 ## The task 📝
 
 We'd like you to create a simple menu page for a restaurant.
@@ -61,15 +45,31 @@ Using the data provided in `public/menu.json`:
 
 - Try to make this simple page look nice, clean and professional for mobile devices up to `480px`. Ignore other screen sizes. It's entirely up to you how this page should be presented, but make sure you do style it (once again, feel free to use libraries or frameworks to achieve this, if you wished to do so).
 
-- Write some sort of automated tests. Again, you choose what type(s) of tests to write and how.
+- Please write some sort of automated tests. Again, you choose what type(s) of tests to write and how.
 
 ## How long should I spend on this test? ⏲️
 
-We are very conscious of people's personal time, so we didn't want to create a test that would take up too much time. Ideally, you should be able to complete this task in more or less 2-3 hours.
+We are conscious of people's personal time, so we didn't want to create a test that would take up too much time. Ideally, you should be able to complete this task in more or less 2-3 hours.
+
+## What we'll be paying attention to 🔍
+
+We want to be as transparent as possible to set you up for success, so here are the things that we'll be paying attention to:
+
+**1. Adherence to instructions** – Does your solution do everything we've asked you to do? Have any requirements been ignored? Do your tests run (and pass)?
+
+**2. Overall structure and cleanliness** – Can you organise the project cleanly and tidily? Is your code easy-to-read and structured in a cohesive manner? 
+
+**3. Language features** – Are you correctly using the features of the languages you're using for the test?
+
+**4. Correct use of technologies and tools** – Are you using the right tools for each task? 
+
+**5. Naming conventions and consistency** – Do you stick to naming conventions? Does your code look consistent throughout your solution?
+
+**6. Clarifications and assumptions** – Have you written clear clarifications to explain why you've decided to do (or not to do) a part of the solution in that specific way? If something wasn't obvious from the task description, have you documented it and explained your assumptions?
 
 ## Feedback 🗣
 
-This is the first version of our technical test because we're just starting our journey towards building our in-house team! If you have any feedback in terms of how we can make it a better test, please, let your interviewer know! 🙏
+This is the first version of our technical test because we're just starting our journey towards building our in-house team! If you have any feedback in terms of how we can make it a better test or if you're facing any issues with it, please, let your interviewer know! 🙏
 
 ## Submission 📤
 
@@ -96,3 +96,7 @@ You can start editing the page by modifying `pages/menu.tsx`. The page auto-upda
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/menu](http://localhost:3000/api/menu). This endpoint can be edited in `pages/api/menu.ts`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+## Credits 🪙
+
+This test has been inspired by [Just Eat's](https://github.com/justeat/JustEat.RecruitmentTest) and [SkyScanner's](https://github.com/Skyscanner/full-stack-recruitment-test) technical tests.
