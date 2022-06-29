@@ -21,16 +21,14 @@ You can use as many libraries and tools as you need to get the job done. Do you 
 
 We'd like you to create a simple menu page for a restaurant.
 
-Using the data provided in `public/menu.json`:
+1. Fetch the data from the `public/menu.json` file so that it can be used on the menu page that you'll create on the next step. You can either use the `pages/api/menu.ts` API endpoint or any other alternative you see fit. It's up to you!
 
-1. Create an API endpoint that returns the menu data from said file.
-
-2. Create a menu page that renders the necessary information provided by the API endpoint. We don't want to display menu items without stock. Information we need to display on the menu page:
+2. Create a menu page that renders the necessary information provided in the step above. Keep in mind we don't want to display menu items without stock. Information we need to display on the menu page:
 - Restaurant's name.
 - Restaurant's description.
 - Each menu item with its name, description, image, unit price and a button to add it to the basket.
 
-3. Create a button that, when clicking it, will log to the `console` a JavaScript `object` including–but not limited to–all the items in the basket. It's up to you to decide what data you should include when "placing an order" and how to structure it.
+3. Create a button that, when clicking it, will simulate the action of "placing an order". Simply log to the `console` a JavaScript `object` including, but not limited to, all the items in the basket. It's up to you to decide what data you should include when you're "placing an order" and how to structure it.
 
 4. Create an `EXPLANATION.md` file explaining your solution and decisions that you had to make, including, at least:
 - How to run the solution and the tests, and any pre-requisites.
