@@ -16,7 +16,7 @@
             "name": "Eggs with Avocado on Toast",
             "description": "Delicious free-range egg on toast with a perfectly ripe avocado.",
             "price": 920,
-            "image": "egg-avocado-toast.jpg",
+            "image": "eggs-avocado-toast.jpg",
             "stock": 1000
         },
         {
@@ -28,7 +28,7 @@
             "stock": 1000
         },
         {
-            "id": "cd8dfe5dc9994518ab64d7e955502ec6",
+            "id": "cd8dfe5dc9994518ab64d7e955502ec3",
             "name": "Unavailable Salad",
             "description": "Another tasty, filling salad . All the flavour without the calories.",
             "price": 740,
