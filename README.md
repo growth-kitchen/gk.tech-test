@@ -41,7 +41,7 @@ We'd like you to create a simple menu page for a restaurant.
 
 ## Additional Tips 💭
 
-- Try to make this simple page look nice, clean and professional for mobile devices up to `480px`. Ignore other screen sizes. It's entirely up to you how this page should be presented, but make sure you do style it (once again, feel free to use libraries or frameworks to achieve this, if you wished to do so).
+- Try to apply some styles so the page looks clean and professional for mobile devices up to `480px`. However, don't spend a lot of time on it. We want to see if you can use some CSS, basically (once again, feel free to use libraries or frameworks to achieve this, if you wished to do so).
 
 - Please write some sort of automated tests. Again, you choose what type(s) of tests to write and how.
 
