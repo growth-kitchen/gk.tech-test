@@ -28,7 +28,7 @@ We'd like you to create a simple menu page for a restaurant.
 - Restaurant's description.
 - Each menu item with its name, description, image, unit price and a button to add it to the basket.
 
-3. Create a button that, when clicking it, will simulate the action of "placing an order". Simply log to the `console` a JavaScript `object` including, but not limited to, all the items in the basket. It's up to you to decide what data you should include when you're "placing an order" and how to structure it.
+3. When clicking on the button to add a menu item to the basket, it should update the basket and log to the console the total value of the basket.
 
 4. Create an `EXPLANATION.md` file explaining your solution and decisions that you had to make, including, at least:
 - How to run the solution and the tests, and any pre-requisites.
@@ -41,7 +41,7 @@ We'd like you to create a simple menu page for a restaurant.
 
 ## Additional Tips 💭
 
-- Try to apply some styles so the page looks clean and professional for mobile devices up to `480px`. However, don't spend a lot of time on it. We want to see if you can use some CSS, basically (once again, feel free to use libraries or frameworks to achieve this, if you wished to do so).
+- Try to apply some styles so the page looks clean for mobile devices up to `480px`. However, don't spend a lot of time on it. We want to see if you can use some CSS, basically (once again, feel free to use libraries or frameworks to achieve this, if you wished to do so).
 
 - Please write some sort of automated tests. Again, you choose what type(s) of tests to write and how.
 
