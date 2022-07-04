@@ -45,6 +45,8 @@ We'd like you to create a simple menu page for a restaurant.
 
 - Please write some sort of automated tests. Again, you choose what type(s) of tests to write and how.
 
+- As a guideline, try to demonstrate "an example of one of each". Show an example of a usage of a hook, an example of a React component, how you'd handle an error, an example of some CSS, a test, and so on. If you can write one test, for instance, we know you'll know how to write more tests. If you can write some CSS, we know you'll know how to write more styles. Don't spend time writing several examples of the same thing.
+
 ## How long should I spend on this test? ⏲️
 
 We are conscious of people's personal time, so we didn't want to create a test that would take up too much time. Ideally, you should be able to complete this task in more or less 2-3 hours.
